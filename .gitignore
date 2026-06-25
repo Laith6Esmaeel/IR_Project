@@ -1,0 +1,4 @@
+datasets/raw/trec_covid/documents.json
+datasets/processed/trec_covid/documents_processed.json
+__pycache__/
+*.pyc
