@@ -1,0 +1,252 @@
+[
+    {
+        "id": "1",
+        "original_text": "what is the origin of COVID-19",
+        "processed_text": "origin covid 19"
+    },
+    {
+        "id": "2",
+        "original_text": "how does the coronavirus respond to changes in the weather",
+        "processed_text": "coronavirus respond change weather"
+    },
+    {
+        "id": "3",
+        "original_text": "will SARS-CoV2 infected people develop immunity? Is cross protection possible?",
+        "processed_text": "sar cov2 infect people develop immunity cross protection possible"
+    },
+    {
+        "id": "4",
+        "original_text": "what causes death from Covid-19?",
+        "processed_text": "cause death covid 19"
+    },
+    {
+        "id": "5",
+        "original_text": "what drugs have been active against SARS-CoV or SARS-CoV-2 in animal studies?",
+        "processed_text": "drug active sar cov sar cov 2 animal study"
+    },
+    {
+        "id": "6",
+        "original_text": "what types of rapid testing for Covid-19 have been developed?",
+        "processed_text": "type rapid testing covid 19 develop"
+    },
+    {
+        "id": "7",
+        "original_text": "are there serological tests that detect antibodies to coronavirus?",
+        "processed_text": "serological test detect antibody coronavirus"
+    },
+    {
+        "id": "8",
+        "original_text": "how has lack of testing availability led to underreporting of true incidence of Covid-19?",
+        "processed_text": "lack testing availability lead underreporting true incidence covid 19"
+    },
+    {
+        "id": "9",
+        "original_text": "how has COVID-19 affected Canada",
+        "processed_text": "covid 19 affected canada"
+    },
+    {
+        "id": "10",
+        "original_text": "has social distancing had an impact on slowing the spread of COVID-19?",
+        "processed_text": "social distancing impact slow spread covid 19"
+    },
+    {
+        "id": "11",
+        "original_text": "what are the guidelines for triaging patients infected with coronavirus?",
+        "processed_text": "guideline triage patient infect coronavirus"
+    },
+    {
+        "id": "12",
+        "original_text": "what are best practices in hospitals and at home in maintaining quarantine?",
+        "processed_text": "good practice hospital home maintain quarantine"
+    },
+    {
+        "id": "13",
+        "original_text": "what are the transmission routes of coronavirus?",
+        "processed_text": "transmission route coronavirus"
+    },
+    {
+        "id": "14",
+        "original_text": "what evidence is there related to COVID-19 super spreaders",
+        "processed_text": "evidence relate covid 19 super spreader"
+    },
+    {
+        "id": "15",
+        "original_text": "how long can the coronavirus live outside the body",
+        "processed_text": "long coronavirus live outside body"
+    },
+    {
+        "id": "16",
+        "original_text": "how long does coronavirus remain stable  on surfaces?",
+        "processed_text": "long coronavirus remain stable surface"
+    },
+    {
+        "id": "17",
+        "original_text": "are there any clinical trials available for the coronavirus",
+        "processed_text": "clinical trial available coronavirus"
+    },
+    {
+        "id": "18",
+        "original_text": "what are the best masks for preventing infection by Covid-19?",
+        "processed_text": "good mask prevent infection covid 19"
+    },
+    {
+        "id": "19",
+        "original_text": "what type of hand sanitizer is needed to destroy Covid-19?",
+        "processed_text": "type hand sanitizer need destroy covid 19"
+    },
+    {
+        "id": "20",
+        "original_text": "are patients taking Angiotensin-converting enzyme inhibitors (ACE) at increased risk for COVID-19?",
+        "processed_text": "patient take angiotensin convert enzyme inhibitor ace increase risk covid 19"
+    },
+    {
+        "id": "21",
+        "original_text": "what are the mortality rates overall and in specific populations",
+        "processed_text": "mortality rate overall specific population"
+    },
+    {
+        "id": "22",
+        "original_text": "are cardiac complications likely in patients with COVID-19?",
+        "processed_text": "cardiac complication likely patient covid 19"
+    },
+    {
+        "id": "23",
+        "original_text": "what kinds of complications related to COVID-19 are associated with hypertension?",
+        "processed_text": "kind complication relate covid 19 associate hypertension"
+    },
+    {
+        "id": "24",
+        "original_text": "what kinds of complications related to COVID-19 are associated with diabetes",
+        "processed_text": "kind complication relate covid 19 associate diabetes"
+    },
+    {
+        "id": "25",
+        "original_text": "which biomarkers predict the severe clinical course of 2019-nCOV infection?",
+        "processed_text": "biomarker predict severe clinical course 2019 ncov infection"
+    },
+    {
+        "id": "26",
+        "original_text": "what are the initial symptoms of Covid-19?",
+        "processed_text": "initial symptom covid 19"
+    },
+    {
+        "id": "27",
+        "original_text": "what is known about those infected with Covid-19 but are asymptomatic?",
+        "processed_text": "know infect covid 19 asymptomatic"
+    },
+    {
+        "id": "28",
+        "original_text": "what evidence is there for the value of hydroxychloroquine in treating Covid-19?",
+        "processed_text": "evidence value hydroxychloroquine treat covid 19"
+    },
+    {
+        "id": "29",
+        "original_text": "which SARS-CoV-2 proteins-human proteins interactions indicate potential for drug targets. Are there approved drugs that can be repurposed based on this information?",
+        "processed_text": "sar cov 2 protein human protein interaction indicate potential drug target approve drug repurpose base information"
+    },
+    {
+        "id": "30",
+        "original_text": "is remdesivir an effective treatment for COVID-19",
+        "processed_text": "remdesivir effective treatment covid 19"
+    },
+    {
+        "id": "31",
+        "original_text": "How does the coronavirus differ from seasonal flu?",
+        "processed_text": "coronavirus differ seasonal flu"
+    },
+    {
+        "id": "32",
+        "original_text": "Does SARS-CoV-2 have any subtypes, and if so what are they?",
+        "processed_text": "sar cov 2 subtype"
+    },
+    {
+        "id": "33",
+        "original_text": "What vaccine candidates are being tested for Covid-19?",
+        "processed_text": "vaccine candidate test covid 19"
+    },
+    {
+        "id": "34",
+        "original_text": "What are the longer-term complications of those who recover from COVID-19?",
+        "processed_text": "long term complication recover covid 19"
+    },
+    {
+        "id": "35",
+        "original_text": "What new public datasets are available related to COVID-19?",
+        "processed_text": "new public dataset available relate covid 19"
+    },
+    {
+        "id": "36",
+        "original_text": "What is the protein structure of the SARS-CoV-2 spike?",
+        "processed_text": "protein structure sar cov 2 spike"
+    },
+    {
+        "id": "37",
+        "original_text": "What is the result of phylogenetic analysis of SARS-CoV-2 genome sequence?",
+        "processed_text": "result phylogenetic analysis sar cov 2 genome sequence"
+    },
+    {
+        "id": "38",
+        "original_text": "What is the mechanism of inflammatory response and pathogenesis of COVID-19 cases?",
+        "processed_text": "mechanism inflammatory response pathogenesis covid 19 case"
+    },
+    {
+        "id": "39",
+        "original_text": "What is the mechanism of cytokine storm syndrome on the COVID-19?",
+        "processed_text": "mechanism cytokine storm syndrome covid 19"
+    },
+    {
+        "id": "40",
+        "original_text": "What are the observed mutations in the SARS-CoV-2 genome and how often do the mutations occur?",
+        "processed_text": "observed mutation sar cov 2 genome mutation occur"
+    },
+    {
+        "id": "41",
+        "original_text": "What are the impacts of COVID-19 among African-Americans that differ from the rest of the U.S. population?",
+        "processed_text": "impact covid 19 african americans differ rest u s population"
+    },
+    {
+        "id": "42",
+        "original_text": "Does Vitamin D impact COVID-19 prevention and treatment?",
+        "processed_text": "vitamin d impact covid 19 prevention treatment"
+    },
+    {
+        "id": "43",
+        "original_text": "How has the COVID-19 pandemic impacted violence in society, including violent crimes?",
+        "processed_text": "covid 19 pandemic impact violence society include violent crime"
+    },
+    {
+        "id": "44",
+        "original_text": "How much impact do masks have on preventing the spread of the COVID-19?",
+        "processed_text": "impact mask prevent spread covid 19"
+    },
+    {
+        "id": "45",
+        "original_text": "How has the COVID-19 pandemic impacted mental health?",
+        "processed_text": "covid 19 pandemic impact mental health"
+    },
+    {
+        "id": "46",
+        "original_text": "what evidence is there for dexamethasone as a treatment for COVID-19?",
+        "processed_text": "evidence dexamethasone treatment covid 19"
+    },
+    {
+        "id": "47",
+        "original_text": "what are the health outcomes for children who contract COVID-19?",
+        "processed_text": "health outcome child contract covid 19"
+    },
+    {
+        "id": "48",
+        "original_text": "what are the benefits and risks of re-opening schools in the midst of the COVID-19 pandemic?",
+        "processed_text": "benefit risk open school midst covid 19 pandemic"
+    },
+    {
+        "id": "49",
+        "original_text": "do individuals who recover from COVID-19 show sufficient immune response, including antibody levels and T-cell mediated immunity, to prevent re-infection?",
+        "processed_text": "individual recover covid 19 sufficient immune response include antibody level t cell mediate immunity prevent infection"
+    },
+    {
+        "id": "50",
+        "original_text": "what is known about an mRNA vaccine for the SARS-CoV-2 virus?",
+        "processed_text": "know mrna vaccine sar cov 2 virus"
+    }
+]
