@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+numpy
+nltk
+spacy
+rank-bm25
+sentence-transformers
+faiss-cpu
+streamlit
+pytrec_eval
+ir_datasets
+matplotlib
+tqdm
